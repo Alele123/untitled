@@ -10,7 +10,7 @@ def fibonacci(n):
         a, b = b, a + b
     return result
 
-
+#123
 def guess_number_game():
     print("=== 猜数字游戏 ===")
     secret = random.randint(1, 100)
